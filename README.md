@@ -1,4 +1,5 @@
-# Brightness Adjustment Script
+# DimScrim
+~dim screen~
 
 This script allows you to adjust the brightness of all connected monitors using the `xrandr` command. The brightness level is specified as a command-line argument ranging from `0` (completely dark) to `1` (maximum brightness).
 
